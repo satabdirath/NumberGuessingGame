@@ -38,16 +38,5 @@ If the user guesses the correct number, the program will output a congratulatory
 If the user runs out of attempts, the program will output a message indicating the correct number.
 
 
-# Contributing
-Contributions are welcome! If you would like to contribute to the project, please follow these steps:
 
-Fork the repository.
-
-Create a new branch for your feature or bug fix.
-
-Make your changes and commit them.
-
-Push your changes to your forked repository.
-
-Submit a pull request to the original repository.
 
